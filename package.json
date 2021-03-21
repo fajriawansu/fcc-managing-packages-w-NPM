@@ -2,7 +2,7 @@
 	"author": "Fajriawan Sutansa",
 	"description": "Learn API and Microservices FCC",
 	"keywords": ["learn", "API", "freecodecamp"],
-	"license": "FCC",
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
